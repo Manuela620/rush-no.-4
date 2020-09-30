@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+  }
+header {display: flex;
+    justify-content: left;
+    align-items: center;
+    margin: 10px;}
+
+form { width: 25vw;
+    padding: 20px;
+    border: 1px solid black;}
+
+.navbar li {display: inline-block;
+padding: 23px;
+}
+.navbar li a {color: white;
+    text-decoration: none; }
+
+nav {background-color: blue;
+    width: 70vw;
+    }
+
+.container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+.profil {width: 20vw;
+        padding: 10px;}
+.profil img {width: 50px;
+            height: 50px;
+            display: inline;}
+.profil p {display: inline-block;
+        }
+li {padding: 5px;}
+
+.postare {
+    width: 60vw;
+    height: auto;
+    box-sizing: border-box; 
+    padding: 20px;}
+img {max-width: 100%;}
+h2 {text-align: center;
+    padding: 15px;
+    font-weight: bold;
+}
+.contacte div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 35 vw;
+    border: 1px solid black;
+  
+}
+.profilepic {
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+}
+.contacte {margin: 10px; }
