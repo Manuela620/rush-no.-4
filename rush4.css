@@ -39,9 +39,10 @@ li {padding: 5px;}
     height: auto;
     box-sizing: border-box; 
     padding: 20px;}
+.postare img {}
 img {max-width: 100%;}
 h2 {text-align: center;
-    padding: 15px;
+    padding: 10px;
     font-weight: bold;
 }
 .contacte div {
